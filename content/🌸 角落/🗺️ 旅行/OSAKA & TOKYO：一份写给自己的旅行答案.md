@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-30T22:58:25.166+08:00
-modified: 2026-01-30T13:23:44.507+08:00
+modified: 2026-03-19T23:20:30.533+08:00
 tags:
   - 旅行
   - 旅游
@@ -9,6 +9,7 @@ tags:
   - 东京
   - 马里奥
 cssclasses: ""
+socialImage: https://cdnfile.sspai.com/2025/09/15/a1db5c36d9cde0dcb0a14a1329688927.png?imageMogr2/auto-orient/thumbnail/!1420x708r/gravity/center/crop/1420x708/format/webp/ignore-error/1
 ---
 
 ## **缘由**
@@ -25,7 +26,9 @@ cssclasses: ""
 
 怀着满分的兴奋，我们从杭州出发。飞机穿过棉花糖般的云层，窗外风景由壮观的跨海大桥，渐渐变为被雨水浸润的大阪市轮廓。
 
-![img](https://cdnfile.sspai.com/2025/09/12/405a2f262022de555c1c9b16e483cdf2.jpg)从飞机舷窗看到的海景
+![1.jpg|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/8fa3f27ffd98f4953225c35dfa268f3e.png)
+
+从飞机舷窗看到的海景
 
 ### **✅ 入境与交通**
 
@@ -53,7 +56,9 @@ cssclasses: ""
 
 然而犯了个新手错误，没看清「一份是两串」，导致前期点的所有串都自动翻倍，最后的结果就是——两个人吃出了三个人的量，扶着墙出门。
 
-![img](https://cdnfile.sspai.com/2025/09/12/b2d3d46e3aa2d92ba71dce7d8d6e7432.jpg)烧鸟
+![](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/cda6c65965a2325f5c9fb996806fc99c.png)
+
+烧鸟
 
 > **【小插曲】**
 >
@@ -71,7 +76,9 @@ cssclasses: ""
 
 **丧尸鬼屋（万圣节限定）：**虽然我自己胆子很小，但还是被朋友拉着去了。一路上被各种丧尸追赶，氛围感十足。演员也是信念感满满，尽管我听不懂他说了什么，但也能从肢体上略知一二。最好笑的是排在我们后面的日本妹子，全程边尖叫边道歉，承包了我们所有的恐惧，反而让我们觉得她有点可爱。
 
-![img](https://cdnfile.sspai.com/2025/09/12/baab8bcc866155952e9f7d22975f1efe.jpg)柯南剧场
+![3|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/a7879154fdf8f14dd2b2578a3ea6993f.png)
+
+柯南剧场
 
 ### **🍄 欢迎来到超级任天堂世界**
 
@@ -81,7 +88,9 @@ cssclasses: ""
 
 「耀西的冒险」是个可爱的观光项目，坐着小车能把整个园区的风景尽收眼底。但「酷霸王的卡丁车」体验有点一言难尽，排了一个多小时的队，实际的交互感却很弱，真的超级失望了。
 
-![img](https://cdnfile.sspai.com/2025/09/12/851ec982be63a61bc7bc69985bf4265e.jpg)马里欧世界
+![2|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/5e7d07430ebd6f7758c8dc184ee01d09.png)
+
+马里欧世界
 
 > **【小彩蛋】**
 >
@@ -91,13 +100,17 @@ cssclasses: ""
 
 等到傍晚时分，我们把哈利波特园区作为收官项目。当城堡映入眼帘，魔法世界的气息扑面而来。「3D 禁忌之旅」被我们一致评为全场最佳！裸眼 3D 效果绝佳，你就像真的骑着扫帚，在霍格沃茨上空飞翔，与火龙擦肩，躲避蜘蛛的攻击，那种沉浸式的刺激，为我们的 USJ 之旅画上了最完美的句号。
 
-![img](https://cdnfile.sspai.com/2025/09/12/7bdba22150f1038cafdd67eadd2e8237.jpg)哈利波特城堡
+![4|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/f57ac33df1742d9e535a85c595fc9baa.png)
+
+哈利波特城堡
 
 ### **🥢 试试从未尝过的大阪烧**
 
 暴走近两万步后，我们拖着疲惫的身体回到市区。晚饭是在大众点评上找的，一家评分很高的大阪烧店。小店藏在楼梯上，很有市井气息。我们点了经典的大阪烧和一份特色炒面，师傅在铁板上现场制作，香气四溢。刷满酱汁的大阪烧口感层次丰富，那份炒面更是锅气十足，好吃到停不下来！人均一百不到的价格，就能享受到如此地道的美食，性价比超高。
 
-![img](https://cdnfile.sspai.com/2025/09/12/0f4982719d6c8c458299d39f5292e0d4.jpg)大阪烧
+![](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/0429187449c6fb2c415240a9030924a4.png)
+
+大阪烧
 
 > **【小槽点】**
 >
@@ -115,13 +128,17 @@ cssclasses: ""
 
 睡到自然醒后，我们退了房，去吃了一蘭拉面。细面、浓汤，味道不错，但汤底对我来说有点像高级版的泡面，略咸。配的乌龙茶很好地中和了，而且是无糖的越喝越顺口。
 
-![img](https://cdnfile.sspai.com/2025/09/15/d6cbd9d857a93dae36e07378df042dfd.jpg)一蘭拉面
+![5|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/5a7037173b3352c362d972820c28414e.png)
+
+一蘭拉面
 
 真正的挑战，是在新大阪站购买新干线车票。我们在自助机上顺利买到了「特急券」，以为大功告成，结果进站时被闸机无情地拦下。比划了半天才从工作人员那里明白，乘坐新干线需要「乘车券」+「特急券」两张票才行！这个小小的乌龙，也算是自由行里宝贵的踩坑经验了。
 
 新干线的感觉和国内高铁类似，两个半小时后，我们顺利抵达了繁华的东京。
 
-![img](https://cdnfile.sspai.com/2025/09/12/f05d2e3dcbbf3045a506070051d10d90.jpg)新干线
+![6|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/871c4cb00bf367d2e7602e0a4d860dd6.png)
+
+新干线
 
 > **【小贴士】**
 >
@@ -137,7 +154,9 @@ cssclasses: ""
 
 真正的重头戏是涩谷 SKY，飞猪上门票唯一十万加的含金量。登上顶楼的露天展望台，360 度的无死角视野让人瞬间失语。脚下是世界上最繁忙的十字路口，车流和人流像交织的溪流，远处是东京塔和鳞次栉比的摩天大楼。那天正好农历七月十五，月亮特别圆，天上虽然星星只几颗，但整个人很放松，还在停机坪上躺了许久。环顾四周一圈，发现女生们特别爱拍照，胆子小也得出片哈哈，就还挺有意思的。
 
-![img](https://cdnfile.sspai.com/2025/09/12/4a6358cdd8415a2b91eda11971fee716.jpg)在涩谷 Sky 眺望
+![7|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/f08e231f64641ddbd1d04c90766d7ca6.png)
+
+在涩谷 Sky 眺望
 
 > **【小贴士】**
 >
@@ -153,7 +172,9 @@ cssclasses: ""
 
 寿司的味道很不错，金枪鱼寿司配点芥末无敌，熟猪排/牛排寿司本身就很惊艳。裹着面粉炸制的天妇罗寿司，外脆里嫩，也非常推荐。限定的月见肉饼寿司则像一个迷你汉堡，风味独特。唯一美中不足的是甜品，点的两款都很甜，而且蛋糕体很多，就很不值得。
 
-![img](https://cdnfile.sspai.com/2025/09/12/4480e20691862c9f3fc0fcd406b6494e.jpg)くら寿司墙边的装饰（寿司吃的太欢忘记拍了） 
+![8|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/32df69013b6b45ff813dd513de0cbb48.png)
+
+くら寿司墙边的装饰（寿司吃的太欢忘记拍了） 
 
 ### **⛩️ 浅草寺的「吉」与「遇」**
 
@@ -161,7 +182,9 @@ cssclasses: ""
 
 在这里还遇到了一位口音像同胞的大妈，她先是跟我们讲浅草寺与道教的渊源，讲着讲着却突然开始生气，甚至莫名其妙地骂了我们几句，实在让人摸不着头脑。我们选择不与她争辩，快速离开，不让别人的负能量影响自己的旅途。
 
-![img](https://cdnfile.sspai.com/2025/09/12/108a6c8e2829d2c6d6193ac587dfa934.jpg)浅草寺内
+![9|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/717007cbeeb5a288164cf4222329d802.png)
+
+浅草寺内
 
 ### **🎮 秋叶原：二次元圣地巡礼**
 
@@ -169,7 +192,9 @@ cssclasses: ""
 
 我最期待的还是扭蛋，在一家有整层楼都是的扭蛋店里，我终于圆梦了。在经历了一番「投币失败」的小插曲后，我成功扭到了一个超帅的贝吉特！这里的街机厅也很有意思，玩《高达》的人最多，反而国内经典的《拳皇》无人问津。
 
-![img](https://cdnfile.sspai.com/2025/09/12/f73464e5ff17bfa2c9994686c578d2da.jpg)秋叶原
+![10|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/d4a3b0bb3891794157a90a692e231009.png)
+
+秋叶原
 
 ### **🏮 夜晚的新宿与池袋**
 
@@ -177,7 +202,9 @@ cssclasses: ""
 
 之后转战池袋，这里更像「中国城」，连库迪咖啡都看到了，真是不期而遇的惊喜。晚饭体验了一家烤肉店，肉质上乘，牛舌和牛肉都非常美味，但分量实在是小，六片肉就要 125 元，性价比不高。唯有那杯可尔必思，依然是我的最爱。
 
-![img](https://cdnfile.sspai.com/2025/09/12/fb956a0936faf80d585e69e0582af6e8.jpg)库迪和歌舞伎町
+![11|600](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/a6eb2025d1686e725b2b8725199b8c2b.png)
+
+库迪和歌舞伎町
 
 ## **Day 5： 东京收官・吃与买**
 
@@ -189,7 +216,9 @@ cssclasses: ""
 
 唯一的缺点是，我们被安排在正对操作台的位置，炸猪排的油烟直冲我们而来，呛得人睁不开眼。我和朋友只能狼吞虎咽地吃完，然后火速逃离现场。
 
-![img](https://cdnfile.sspai.com/2025/09/12/581011425bfb1735a7b33914216901a2.jpg)炸猪排
+![12|500](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/74cd0d3f0a1c4c793ef5ea299fa3ae3a.png)
+
+炸猪排
 
 ### **💎 银座的「土狗」漫步**
 
@@ -197,19 +226,25 @@ cssclasses: ""
 
 反差最大的是，附近竟然有一家高达 12 层的优衣库旗舰店，！店内的设计很搞笑，挂着的衣服会自己左右晃动，堪称天才般的设计。
 
-![img](https://cdnfile.sspai.com/2025/09/15/5ce8f16961a96914ec200817fdf095e8.jpg)偶遇的 Nissan 概念车
+![13|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/27ab325518bc12f20c9a4d4895f926fc.png)
+
+偶遇的 Nissan 概念车
 
 ### **🎁 Loft：伴手礼的天堂**
 
 最后也是逛了下 Loft，我们找到了买伴手礼的乐趣。这是一家大型文创和生活用品店，从文具、贴纸到各种杂货，设计可爱，价格平实。原本兴趣缺缺的朋友，最后也沉浸在挑选可爱贴纸的快乐中，我们在这里为朋友们准备了满满的心意。
 
-![img](https://cdnfile.sspai.com/2025/09/12/7074c603e7cb49290cbfdefcde1c3a28.jpg)Loft
+![14|350](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/67113ccc72efc725fa8ca75c054cdc5c.png)
+
+Loft
 
 ### **🍔 最后的晚饭与归途**
 
 接近傍晚的时候，我们远眺了一下东京塔，吃了在日本的最后一餐——肯德基。限定的「月见」汉堡出乎意料地好吃，糖心蛋和独特的酱料很加分。但薯条和可乐就远不如国内了，依旧是很粉的薯条和很稀的可乐。
 
-![img](https://cdnfile.sspai.com/2025/09/13/e4125557869abac6dfd24bbc114ed706.jpg)东京塔和月见汉堡
+![15|600](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/b14866b3399dbe0bf249365e4b57e056.png)
+
+东京塔和月见汉堡
 
 回程的航班延误了，落地南京已是午夜。入住了积分换的全季酒店，躺在比日本酒店大两倍的床上，那种熟悉而舒适的感觉，为这次旅行画上了一个安心的句号。
 
