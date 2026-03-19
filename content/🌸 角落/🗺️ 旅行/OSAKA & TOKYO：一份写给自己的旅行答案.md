@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-30T22:58:25.166+08:00
-modified: 2026-03-19T23:20:30.533+08:00
+modified: 2026-03-19T23:31:53.237+08:00
 tags:
   - 旅行
   - 旅游
@@ -56,7 +56,7 @@ socialImage: https://cdnfile.sspai.com/2025/09/15/a1db5c36d9cde0dcb0a14a13296889
 
 然而犯了个新手错误，没看清「一份是两串」，导致前期点的所有串都自动翻倍，最后的结果就是——两个人吃出了三个人的量，扶着墙出门。
 
-![](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/cda6c65965a2325f5c9fb996806fc99c.png)
+![17|650](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/cda6c65965a2325f5c9fb996806fc99c.png)
 
 烧鸟
 
@@ -108,7 +108,7 @@ socialImage: https://cdnfile.sspai.com/2025/09/15/a1db5c36d9cde0dcb0a14a13296889
 
 暴走近两万步后，我们拖着疲惫的身体回到市区。晚饭是在大众点评上找的，一家评分很高的大阪烧店。小店藏在楼梯上，很有市井气息。我们点了经典的大阪烧和一份特色炒面，师傅在铁板上现场制作，香气四溢。刷满酱汁的大阪烧口感层次丰富，那份炒面更是锅气十足，好吃到停不下来！人均一百不到的价格，就能享受到如此地道的美食，性价比超高。
 
-![](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/0429187449c6fb2c415240a9030924a4.png)
+![16|650](https://msa-tuchuang.oss-cn-hangzhou.aliyuncs.com/obsidian/2026/03/0429187449c6fb2c415240a9030924a4.png)
 
 大阪烧
 
