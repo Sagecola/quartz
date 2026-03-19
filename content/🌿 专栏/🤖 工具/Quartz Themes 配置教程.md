@@ -2,8 +2,8 @@
 publish: true
 title: Quartz Themes 配置教程
 description: 介绍如何通过 quartz-themes 项目将 Obsidian 主题应用到 Quartz 网站，包含热门主题推荐、GitHub Actions 自动部署配置、本地安装方法以及常见问题解决方案。
-created: 2026-03-05T14:15:11.218+08:00
-modified: 2026-03-05T14:40:31.236+08:00
+created: 2026-03-06T13:59:11.463+08:00
+modified: 2026-03-05T14:40:31.000+08:00
 tags:
   - Obsidian
   - Quartz

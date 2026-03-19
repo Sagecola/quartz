@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-02-02T09:21:35.674+08:00
-modified: 2026-01-30T11:25:59.000+08:00
+created: 2026-01-30T22:58:25.154+08:00
+modified: 2026-01-30T11:25:59.538+08:00
 tags:
   - MBTI
 cssclasses: ""

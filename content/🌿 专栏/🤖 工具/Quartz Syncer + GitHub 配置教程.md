@@ -2,8 +2,8 @@
 publish: true
 title: Quartz Syncer + GitHub 配置教程
 description: 详细讲解如何使用 Quartz Syncer 插件将 Obsidian 笔记同步到 GitHub Pages，包含完整的配置步骤、常见问题解决方案以及真实踩坑经验分享。适合国内用户的 Quartz + GitHub 部署指南。
-created: 2026-03-05T13:55:57.957+08:00
-modified: 2026-03-05T14:48:47.722+08:00
+created: 2026-03-06T13:59:11.466+08:00
+modified: 2026-03-05T14:48:47.000+08:00
 tags:
   - Obsidian
   - Quartz
